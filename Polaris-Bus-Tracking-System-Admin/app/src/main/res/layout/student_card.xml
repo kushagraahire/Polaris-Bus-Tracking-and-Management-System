@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="6dp"
+    android:elevation="6dp"
+    app:cardUseCompatPadding="true"
+    android:layout_margin="4dp">
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:padding="15dp">
+
+       <de.hdodenhof.circleimageview.CircleImageView
+           android:id="@+id/ivStudent"
+           android:layout_width="80dp"
+           android:layout_height="80dp"
+           android:src="@drawable/student_card_icon"
+           app:civ_border_color="#36454F"
+           app:civ_border_width="2dp" />
+
+       <TextView
+           android:id="@+id/tvStudentName"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="10dp"
+           android:layout_toRightOf="@+id/ivStudent"
+           android:text="Student Name"
+           android:textColor="#36454F"
+           android:textSize="25sp"
+           android:textStyle="bold" />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/tvStudentEnroll"
+           android:text="Enrollment No."
+           android:textSize="25sp"
+           android:textColor="#36454F"
+           android:layout_toRightOf="@+id/ivStudent"
+           android:layout_below="@+id/tvStudentName"
+           android:layout_marginLeft="10dp"/>
+
+       <TextView
+           android:id="@+id/tvStudentBusStop"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_below="@+id/tvStudentEnroll"
+           android:layout_marginLeft="10dp"
+           android:layout_toRightOf="@+id/ivStudent"
+           android:text="Bus Stop"
+           android:textColor="#36454F"
+           android:textSize="25sp" />
+
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_below="@id/tvStudentBusStop"
+           android:layout_marginTop="8dp">
+
+           `<Button
+               android:id="@+id/btnStudentEdit"
+               android:layout_width="155dp"
+               android:layout_height="wrap_content"
+           android:layout_marginLeft="3dp"
+           android:layout_marginRight="3dp"
+               android:background="@drawable/rounded_button"
+               android:drawableStart="@drawable/edit_icon"
+               android:drawablePadding="10dp"
+               android:paddingStart="35dp"
+               android:text="Edit"
+               android:textAlignment="textStart"
+               android:textAllCaps="false"
+               android:textColor="@color/white"
+               android:textSize="20sp"
+               android:layout_alignParentRight="true"/>
+
+           <Button
+               android:id="@+id/btnStudentDelete"
+               android:layout_width="155dp"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="3dp"
+               android:layout_marginRight="3dp"
+               android:background="@drawable/rounded_button"
+               android:drawableStart="@drawable/ic_baseline_delete_24"
+               android:drawablePadding="10dp"
+               android:paddingStart="32dp"
+               android:text="Delete"
+               android:textAlignment="textStart"
+               android:textAllCaps="false"
+               android:textColor="@color/white"
+               android:textSize="20sp"
+               android:layout_alignParentLeft="true"/>
+       </RelativeLayout>
+
+
+   </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

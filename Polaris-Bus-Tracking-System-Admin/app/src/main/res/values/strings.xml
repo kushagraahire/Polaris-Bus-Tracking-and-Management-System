@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Polaris Admin</string>
+    <string name="title_activity_set_stop">SetStop</string>
+    <string name="title_activity_edit_stop">EditStop</string>
+    <string name="updateBus">Update Bus</string>
+</resources>

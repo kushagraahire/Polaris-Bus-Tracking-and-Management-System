@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="6dp"
+    android:elevation="6dp"
+    app:cardUseCompatPadding="true"
+    android:layout_marginTop="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+
+        <ImageView
+            android:id="@+id/ivRoute"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/route_icon_black"
+            android:layout_marginEnd="10dp"/>
+
+        <TextView
+            android:id="@+id/tvRouteNo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/ivRoute"
+            android:text="Route No: "
+            android:textColor="#36454F"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvRoute"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvRouteNo"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/ivRoute"
+            android:text="Route Name"
+            android:textColor="#36454F"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/tvLorem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvRoute"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/ivRoute"
+            android:textColor="#36454F"
+            android:textSize="25sp" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvLorem"
+            android:layout_marginTop="8dp">
+
+            <Button
+                android:id="@+id/btnRouteEdit"
+                android:layout_width="155dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:background="@drawable/rounded_button"
+                android:drawableStart="@drawable/edit_icon"
+                android:drawablePadding="10dp"
+                android:paddingStart="35dp"
+                android:text="Edit"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:layout_alignParentRight="true"/>
+
+            <Button
+                android:id="@+id/btnRouteDelete"
+                android:layout_width="155dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:background="@drawable/rounded_button"
+                android:drawableStart="@drawable/ic_baseline_delete_24"
+                android:drawablePadding="10dp"
+                android:paddingStart="32dp"
+                android:text="Delete"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:layout_alignParentLeft="true"/>
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

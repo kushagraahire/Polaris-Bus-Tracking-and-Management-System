@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abhishek/AndroidStudioProjects/pbts-admin-15-april/app/src/main/res/layout/activity_add_bus.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Abhishek/AndroidStudioProjects/pbts-admin-15-april/app/src/main/res/layout/activity_add_driver.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Abhishek/AndroidStudioProjects/pbts-admin-15-april/app/src/main/res/layout/activity_admin_homepage.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Abhishek/AndroidStudioProjects/pbts-admin-15-april/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Abhishek/AndroidStudioProjects/pbts-admin-15-april/app/src/main/res/layout/activity_manage_bus.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Abhishek/AndroidStudioProjects/pbts-admin-15-april/app/src/main/res/layout/bus_card.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/activity_add_student.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/activity_manage_students.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/student_card.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/student_update_popup.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/pbts-admin/app/src/main/res/menu/search.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/bus_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/custom_email_icon.xml" value="0.1945" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/custom_lock_icon.xml" value="0.1945" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/custominput.xml" value="0.1945" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/driver_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/email.xml" value="0.1945" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/homepagebutton.xml" value="0.1" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1945" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/lock.xml" value="0.1945" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/logout_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/rounded_button.xml" value="0.1945" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/student_card_icon.xml" value="0.1075" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/student_dialog.xml" value="0.1075" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/student_rounded.xml" value="0.1075" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/drawable/students_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/layout/activity_add_student.xml" value="0.22" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/layout/activity_admin_forgot_password.xml" value="0.18" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/layout/activity_admin_homepage.xml" value="0.25" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/layout/activity_admin_registration.xml" value="0.25" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/layout/activity_manage_students.xml" value="0.22" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/layout/student_card.xml" value="0.25" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/PolarisBusTrackingSystem/app/src/main/res/layout/student_update_popup.xml" value="0.25" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/drawable/search_icon.xml" value="0.1075" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/drawable/student_card_icon.xml" value="0.2115" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/drawable/students_icon.xml" value="0.1075" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/activity_add_driver.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/activity_add_student.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/activity_manage_drivers.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/activity_manage_students.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/driver_card.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/driver_update_popup.xml" value="0.25" />
+        <entry key="..\:/Users/Kushagra Ahire/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/student_card.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/layout/activity_add_bus.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/layout/activity_add_driver.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/layout/activity_add_student.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/layout/activity_manage_bus.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/layout/bus_card.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/layout/bus_update_popup.xml" value="0.21" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/layout/driver_update_popup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/layout/student_card.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/menu/search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin-18-april/app/src/main/res/menu/search_driver.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/activity_add_driver.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/activity_add_student.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/activity_manage_drivers.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/driver_card.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin/app/src/main/res/layout/driver_update_popup.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin/app/src/main/res/menu/search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/pbts-admin/app/src/main/res/menu/search_driver.xml" value="0.20416666666666666" />
+        <entry key="..\:/polaris project/app/src/main/res/layout/activity_manage_bus.xml" value="0.2" />
+        <entry key="..\:/polaris project/app/src/main/res/layout/activity_manage_students.xml" value="0.17074275362318841" />
+        <entry key="..\:/polaris project/app/src/main/res/layout/bus_card.xml" value="0.22" />
+        <entry key="..\:/polaris project/app/src/main/res/layout/bus_update_popup.xml" value="0.17074275362318841" />
+        <entry key="..\:/polaris project/app/src/main/res/layout/driver_card.xml" value="0.22" />
+        <entry key="..\:/polaris project/app/src/main/res/layout/driver_update_popup.xml" value="0.17074275362318841" />
+        <entry key="..\:/polaris project/app/src/main/res/layout/student_card.xml" value="0.21" />
+        <entry key="..\:/polaris project/app/src/main/res/layout/student_update_popup.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
